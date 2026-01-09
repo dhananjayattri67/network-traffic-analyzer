@@ -18,8 +18,11 @@ A Python-based network traffic analysis tool that processes Wireshark PCAP files
 
 # Project Structure
 network-traffic-analyzer/
+
 ├── analyzer.py
+
 ├── pcaps/
+
 │ └── sample_pcap_here.txt
 
 

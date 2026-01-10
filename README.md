@@ -23,7 +23,7 @@ network-traffic-analyzer/
 
 ├── pcaps/
 
-│ └── sample_pcap_here.txt
+|  └── sample_pcap_here.txt
 
 
 # How to Run
